@@ -7,7 +7,8 @@
     > gui.pyでは、pygameを使用してアプリケーションを作ってみました。  
     pygameを使用するのは初めてなのでコードが汚いです。もっと勉強してきれいに掛けるようになりたい。(・_・;)w  
     また、pygameを使用しているのでインストールをしていない場合、エラーで動かないので気をつけてください
-    ```shellscript
-    sudo apt install python3-pygame
-    ```
-    このような形でインストールしてください。(・_・;)
+
+```shellscript
+sudo apt install python3-pygame
+```
+このような形でインストールしてください。(・_・;)
